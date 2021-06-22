@@ -111,6 +111,8 @@ This work (code and paper) is build on top of our [previous research](https://ww
 This research was supported by the Swiss National Science Foundation (grant no. 205321_182176 to Gisbert Schneider), the RETHINK initiative at ETH Zurich and the Novartis Forschungsstiftung (FreeNovationgrant “AI in Drug Discovery” to Gisbert Schneider).
  
 ### How to cite this work<a name="Cite"></a>
+
+TODO: update with the journal version when published
 ```
 @article{moret2021beam,
   title={Beam search sampling for molecular design and intrinsic prioritization with machine intelligence},
