@@ -1,0 +1,6 @@
+[submodule "src/python/fcd"]
+	path = src/python/fcd
+	url = git@gitlab.ethz.ch:moretm/fcd.git
+[submodule "src/python/scaffold_hopping_whales"]
+	path = src/python/scaffold_hopping_whales
+	url = git@github.com:grisoniFr/scaffold_hopping_whales.git
