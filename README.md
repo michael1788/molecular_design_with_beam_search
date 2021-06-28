@@ -24,7 +24,7 @@ Access on the journal webpage (TODO: add the link when officially published)
 [Preprint version (not up to date with the published version)](https://chemrxiv.org/articles/preprint/Beam_Search_Sampling_for_Molecular_Design_and_Intrinsic_Prioritization_with_Machine_Intelligence/14153408?file=26677325)   
 
 
-**Abstract of the paper**: Chemical language models enable de novo drug design without the requirement for explicit molecular construction rules. While such models have been applied to generate novel compounds with desired bioactivity, the actual prioritization and selection of the most promising computational designs remains challenging. In this work, we leveraged the probabilities learnt by chemical language models with the beam search algorithm as a model-intrinsic technique for automated molecule design and scoring. Prospective application of this method yielded three novel inverse agonists of retinoic acid receptor-related orphan receptors (RORs). Each design was synthesizable in three reaction steps and presented low-micromolar to nanomolar potency towards ROR&gamma;. This model-intrinsic sampling technique eliminates the strict need for external compound scoring functions, thereby further extending the applicability of generative artificial intelligence to data-driven drug discovery.    
+**Abstract of the paper**: Chemical language models enable de novo drug design without the requirement for explicit molecular construction rules. While such models have been applied to generate novel compounds with desired bioactivity, the actual prioritization and selection of the most promising computational designs remains challenging. In this work, we leveraged the probabilities learnt by chemical language models with the beam search algorithm as a model-intrinsic technique for automated molecule design and scoring. Prospective application of this method yielded three novel inverse agonists of retinoic acid receptor-related orphan receptors (RORs). Each design was synthesizable in three reaction steps and presented low-micromolar to nanomolar potency towards ROR&gamma;. This model-intrinsic sampling technique eliminates the strict need for external compound scoring functions, thereby further extending the applicability of generative artificial intelligence to data-driven drug discovery.
 
 ### Requirements<a name="Requirements"></a>
 
@@ -112,12 +112,8 @@ This research was supported by the Swiss National Science Foundation (grant no. 
  
 ### How to cite this work<a name="Cite"></a>
 
-TODO: update with the journal version when published
 ```
-@article{moret2021beam,
-  title={Beam search sampling for molecular design and intrinsic prioritization with machine intelligence},
-  author={Moret, Michael and Helmst{\"a}dter, Moritz and Grisoni, Francesca and Schneider, Gisbert and Merk, Daniel}
-}
+Moret, M., Helmstädter, M., Grisoni, F., Schneider, G. and Merk, D. (2021), Beam search for automated design and scoring of novel ROR ligands with machine intelligence. Angew. Chem. Int. Ed.. Accepted Author Manuscript. https://doi.org/10.1002/anie.202104405
 ```
 
 ### License<a name="License"></a>
