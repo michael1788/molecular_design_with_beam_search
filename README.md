@@ -19,7 +19,7 @@
 
 This is the supporting code for the paper «Beam search for automated design and scoring of novel ROR ligands with machine intelligence». This code allows you to replicate the experiments of the paper as well as running our method on your own set of molecules.
 
-Access on the journal webpage (TODO: add the link when officially published)   
+[Access on the journal webpage](https://onlinelibrary.wiley.com/doi/10.1002/anie.202104405)
 
 [Preprint version (not up to date with the published version)](https://chemrxiv.org/articles/preprint/Beam_Search_Sampling_for_Molecular_Design_and_Intrinsic_Prioritization_with_Machine_Intelligence/14153408?file=26677325)   
 
